@@ -1,2 +1,2 @@
 # RRMLSS
-Rails Reactor Machine Learning Summer School
+Test task for Rails Reactor Machine Learning Summer School
